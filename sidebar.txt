@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hos:home|Door43 (hos)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hos|d43-hos repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hos/archive/master.zip|d43-hos.zip]]
+
+**Recent Changes**
+{{changes>ns = hos}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hos|Ethnologue data]]
+
